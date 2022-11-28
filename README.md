@@ -2,6 +2,7 @@
 
 TODO - 
 Create MVC (On process)
+create table canditatos
 
 
 Recently changes:
