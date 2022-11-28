@@ -5,6 +5,8 @@ Create MVC (On process)
 
 Create table canditatos
 
+Update UML with MVC classes
+
 
 Recently changes:
 
