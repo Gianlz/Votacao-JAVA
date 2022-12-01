@@ -1,9 +1,7 @@
 # Votacao-JAVA
 
 TODO - 
-Create MVC (On process)
-
-Create table canditatos
+Juntar classe resultados com votantes e remover Resultados do BD.
 
 Update UML with MVC classes
 
@@ -19,3 +17,5 @@ Created DB voteBCC and table votacao
 01/12/2002
 
 Finalization of the database
+
+
