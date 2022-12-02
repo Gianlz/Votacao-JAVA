@@ -24,4 +24,6 @@ Remake project Stucture
 
 Join candidates in a List (array)
 
+Updated UML with new structure
+
 
