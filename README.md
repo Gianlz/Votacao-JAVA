@@ -1,7 +1,10 @@
 # Votacao-JAVA
 
 TODO - 
+
 Juntar classe resultados com votantes e remover Resultados do BD.
+
+Juntar candidatos em uma List (array)
 
 Update UML with MVC classes
 
