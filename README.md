@@ -20,5 +20,6 @@ Created DB voteBCC and table votacao
 01/12/2002
 
 Finalization of the database
+Remake project Stucture
 
 
