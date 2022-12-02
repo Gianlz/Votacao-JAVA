@@ -2,9 +2,8 @@
 
 TODO - 
 
-Juntar classe resultados com votantes e remover Resultados do BD.
+Merge results class with voters and remove results from DB.
 
-Juntar candidatos em uma List (array)
 
 Update UML with MVC classes
 
@@ -22,5 +21,7 @@ Created DB voteBCC and table votacao
 Finalization of the database
 
 Remake project Stucture
+
+Join candidates in a List (array)
 
 
